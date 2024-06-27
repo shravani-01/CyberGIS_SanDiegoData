@@ -3,6 +3,7 @@
 ## 1. Visualizing the Impact of Covid-19: Temporal Trends in Crude and Vaccination Rates by Zip Code in San Diego (ACM_COVID_MLC_SD)
 Link:
 https://drive.google.com/file/d/1EK3WSMiQ6k5U9DjrUZrPgYaHu2eTmEnX/view?usp=drive_link
+
 Dashboard Summary:
 Title: Visualizing the Impact of Covid-19 in San Diego:
 This interactive dashboard utilizes the Adaptive Choropleth Mapper (ACM) library to visualize and analyze the impact of Covid-19 in San Diego. The data for visualization is sourced from the "SD_Confirmed_Vaccine_Final_v5.csv" dataset, containing crucial variables such as geo IDs, confirmed cases, vaccination rates, and other Covid-19 metrics. Additionally, geographical coordinates of San Diego places are loaded from the "SanDiego_Zip_COVID.shp" shapefile using the geospatial library, Geopandas.
