@@ -22,8 +22,9 @@ Link: https://drive.google.com/file/d/1_wT78jS54IsvFjtu3045xIeXaKmfvBJy/view?usp
 Time
 This interactive dashboard leverages the Adaptive Choropleth Mapper (ACM) library to visualize and compare Covid-19 vaccination trends across different zip codes in San Diego over time. The data for visualization is sourced from the "Vaccine" dataset, which contains relevant variables such as vaccination rates per 10,000 population. Geographical coordinates of San Diego places are loaded from the "SanDiego_Zip_COVID.shp" shapefile using the geospatial library, Geopandas.
 Functions and Key Concepts:
+
 Dashboard Objective:
-● The primary objective of this dashboard is to provide a visual comparison of
+The primary objective of this dashboard is to provide a visual comparison of
 Covid-19 vaccination rates across different zip codes in San Diego over time. Users can interactively explore vaccination trends and identify variations in vaccine coverage among various regions.
 Data Loading and Preparation:
 
@@ -32,8 +33,9 @@ Link: https://drive.google.com/file/d/1_e2ajrY4bYcqBZMLw2KiCmzxDLPVzDZQ/view?usp
  
  Dashboard Summary: Temporal Patterns of Covid-19 Crude Rate and Vaccinated Rate in US Counties
 This interactive dashboard utilizes the Adaptive Choropleth Mapper (ACM) library to visualize and analyze temporal patterns of Covid-19 crude rate and vaccinated rate at the zip code level in US counties for the year 2020. The data for visualization is sourced from the "Covid_Rate_daily_counties_mainland.csv" dataset, which includes essential variables such as geo IDs, confirmed rate, death rate, and cumulative rates. Additionally, the geographical coordinates of US counties are loaded from the "counties.shp" shapefile using the geospatial library, Geopandas.
+
 Dashboard Objective:
-● The main objective of this dashboard is to provide a comprehensive understanding of temporal patterns in Covid-19 crude rate and vaccinated rate across US counties at the zip code level throughout the year 2020. By visualizing and analyzing these temporal patterns, users can identify trends and variations in Covid-19 metrics.
+The main objective of this dashboard is to provide a comprehensive understanding of temporal patterns in Covid-19 crude rate and vaccinated rate across US counties at the zip code level throughout the year 2020. By visualizing and analyzing these temporal patterns, users can identify trends and variations in Covid-19 metrics.
 
 
 ## 5. Temporal Patterns of Covid-19 Crude Rate and Vaccinated Rate at Zip Code Level in US Counties
@@ -41,7 +43,8 @@ Link: https://drive.google.com/file/d/1VT4-uqxQztjQ0QlHoT04__C7AcWFX1Uv/view?usp
  
  Dashboard Summary: Comparison of Temporal Patterns of Covid-19 Crude Rate Between US Counties
 This interactive dashboard employs the Adaptive Choropleth Mapper (ACM) library to visualize and compare temporal patterns of Covid-19 crude rate among various US counties. The dataset used for visualization is "Covid_Rate_daily_counties_mainland.csv," which contains crucial variables such as geo IDs and Covid-19 confirmed rates. Geographical coordinates of US counties are loaded from the "counties.shp" shapefile using the geospatial library, Geopandas.
+
 Dashboard Objective:
-● The primary objective of this dashboard is to facilitate a comprehensive
+The primary objective of this dashboard is to facilitate a comprehensive
 comparison of temporal patterns in Covid-19 crude rate across different US counties. By visualizing these patterns over time, users can gain insights into the variations and trends in Covid-19 metrics among different regions.
 
